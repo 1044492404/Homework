@@ -1,0 +1,56 @@
+/*pic_1*/
+document.querySelector('#pic_1').addEventListener('mouseover',function(){
+	document.querySelector('#pic_1_bgc').style.visibility="hidden"
+})
+document.querySelector('#pic_1').addEventListener('mouseout',function(){
+	document.querySelector('#pic_1_bgc').style.visibility="visible"
+})
+document.querySelector('#pic_1').addEventListener('mouseover',function(){
+	document.querySelector('#pic_1_div_container').style.visibility="visible"
+})
+document.querySelector('#pic_1').addEventListener('mouseout',function(){
+	document.querySelector('#pic_1_div_container').style.visibility="hidden"
+})
+
+
+/*pic_2*/
+document.querySelector('#pic_2').addEventListener('mouseover',function(){
+	document.querySelector('#pic_2_bgc').style.visibility="hidden"
+})
+document.querySelector('#pic_2').addEventListener('mouseout',function(){
+	document.querySelector('#pic_2_bgc').style.visibility="visible"
+})
+document.querySelector('#pic_2').addEventListener('mouseover',function(){
+	document.querySelector('#pic_2_div_container').style.visibility="visible"
+})
+document.querySelector('#pic_2').addEventListener('mouseout',function(){
+	document.querySelector('#pic_2_div_container').style.visibility="hidden"
+})
+
+/*pic_3*/
+document.querySelector('#pic_3').addEventListener('mouseover',function(){
+	document.querySelector('#pic_3_bgc').style.visibility="hidden"
+})
+document.querySelector('#pic_3').addEventListener('mouseout',function(){
+	document.querySelector('#pic_3_bgc').style.visibility="visible"
+})
+document.querySelector('#pic_3').addEventListener('mouseover',function(){
+	document.querySelector('#pic_3_div_container').style.visibility="visible"
+})
+document.querySelector('#pic_3').addEventListener('mouseout',function(){
+	document.querySelector('#pic_3_div_container').style.visibility="hidden"
+})
+
+/*pic_4*/
+document.querySelector('#pic_4').addEventListener('mouseover',function(){
+	document.querySelector('#pic_4_bgc').style.visibility="hidden"
+})
+document.querySelector('#pic_4').addEventListener('mouseout',function(){
+	document.querySelector('#pic_4_bgc').style.visibility="visible"
+})
+document.querySelector('#pic_4').addEventListener('mouseover',function(){
+	document.querySelector('#pic_4_div_container').style.visibility="visible"
+})
+document.querySelector('#pic_4').addEventListener('mouseout',function(){
+	document.querySelector('#pic_4_div_container').style.visibility="hidden"
+})
